@@ -1,0 +1,42 @@
+C:\Users\semen\source\repos\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.exe
+C:\Users\semen\source\repos\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.deps.json
+C:\Users\semen\source\repos\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.runtimeconfig.json
+C:\Users\semen\source\repos\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.dll
+C:\Users\semen\source\repos\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.pdb
+C:\Users\semen\source\repos\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\source\repos\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.AssemblyInfoInputs.cache
+C:\Users\semen\source\repos\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.AssemblyInfo.cs
+C:\Users\semen\source\repos\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\semen\source\repos\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.dll
+C:\Users\semen\source\repos\CourseWork\CourseWork\obj\Debug\net6.0\refint\CourseWork.dll
+C:\Users\semen\source\repos\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.pdb
+C:\Users\semen\source\repos\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.genruntimeconfig.cache
+C:\Users\semen\source\repos\CourseWork\CourseWork\obj\Debug\net6.0\ref\CourseWork.dll
+C:\Users\semen\OneDrive\Рабочий стол\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.exe
+C:\Users\semen\OneDrive\Рабочий стол\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.deps.json
+C:\Users\semen\OneDrive\Рабочий стол\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.runtimeconfig.json
+C:\Users\semen\OneDrive\Рабочий стол\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.dll
+C:\Users\semen\OneDrive\Рабочий стол\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.pdb
+C:\Users\semen\OneDrive\Рабочий стол\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\OneDrive\Рабочий стол\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.AssemblyInfoInputs.cache
+C:\Users\semen\OneDrive\Рабочий стол\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.AssemblyInfo.cs
+C:\Users\semen\OneDrive\Рабочий стол\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\semen\OneDrive\Рабочий стол\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.dll
+C:\Users\semen\OneDrive\Рабочий стол\CourseWork\CourseWork\obj\Debug\net6.0\refint\CourseWork.dll
+C:\Users\semen\OneDrive\Рабочий стол\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.pdb
+C:\Users\semen\OneDrive\Рабочий стол\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.genruntimeconfig.cache
+C:\Users\semen\OneDrive\Рабочий стол\CourseWork\CourseWork\obj\Debug\net6.0\ref\CourseWork.dll
+C:\Users\semen\OneDrive\Рабочий стол\Курсовая Семенчин Даниил 30 вариант\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.exe
+C:\Users\semen\OneDrive\Рабочий стол\Курсовая Семенчин Даниил 30 вариант\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.deps.json
+C:\Users\semen\OneDrive\Рабочий стол\Курсовая Семенчин Даниил 30 вариант\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.runtimeconfig.json
+C:\Users\semen\OneDrive\Рабочий стол\Курсовая Семенчин Даниил 30 вариант\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.dll
+C:\Users\semen\OneDrive\Рабочий стол\Курсовая Семенчин Даниил 30 вариант\CourseWork\CourseWork\bin\Debug\net6.0\CourseWork.pdb
+C:\Users\semen\OneDrive\Рабочий стол\Курсовая Семенчин Даниил 30 вариант\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\OneDrive\Рабочий стол\Курсовая Семенчин Даниил 30 вариант\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.AssemblyInfoInputs.cache
+C:\Users\semen\OneDrive\Рабочий стол\Курсовая Семенчин Даниил 30 вариант\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.AssemblyInfo.cs
+C:\Users\semen\OneDrive\Рабочий стол\Курсовая Семенчин Даниил 30 вариант\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\semen\OneDrive\Рабочий стол\Курсовая Семенчин Даниил 30 вариант\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.dll
+C:\Users\semen\OneDrive\Рабочий стол\Курсовая Семенчин Даниил 30 вариант\CourseWork\CourseWork\obj\Debug\net6.0\refint\CourseWork.dll
+C:\Users\semen\OneDrive\Рабочий стол\Курсовая Семенчин Даниил 30 вариант\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.pdb
+C:\Users\semen\OneDrive\Рабочий стол\Курсовая Семенчин Даниил 30 вариант\CourseWork\CourseWork\obj\Debug\net6.0\CourseWork.genruntimeconfig.cache
+C:\Users\semen\OneDrive\Рабочий стол\Курсовая Семенчин Даниил 30 вариант\CourseWork\CourseWork\obj\Debug\net6.0\ref\CourseWork.dll
